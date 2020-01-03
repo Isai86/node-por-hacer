@@ -1,2 +1,9 @@
-# node-por-hacer
-Esta es una aplicación de comandos en Node del curso
+##Aplicación de comandos
+
+Este es un ejercicio del curso
+
+Recuerden instalar los paquetes de node
+
+```
+npm install
+```
